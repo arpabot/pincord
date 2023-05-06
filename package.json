@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sueqkjs",
+  "author": "yuimarudev",
   "license": "MIT",
   "dependencies": {
     "@cloudflare/workers-types": "^3.11.0",
