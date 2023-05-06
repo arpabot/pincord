@@ -1,0 +1,3 @@
+[submodule "cloudcord"]
+	path = cloudcord
+	url = https://github.com/yuimarudev/cloudcord

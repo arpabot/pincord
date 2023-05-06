@@ -1,0 +1,20 @@
+{
+  "name": "pincord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.es.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sueqkjs",
+  "license": "MIT",
+  "dependencies": {
+    "@cloudflare/workers-types": "^3.11.0",
+    "cloudcord": "./cloudcord",
+    "discord-api-types": "^0.37.5",
+    "statuses": "^2.0.1",
+    "typescript": "next",
+    "vite": "^2.9.11"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pin": {
+    "name": "Pin Message",
+    "type": 3,
+    "error": "```\nError {0}```"
+  },
+  "unpin": {
+    "name": "Unpin Message",
+    "type": 3,
+    "error": "```\nError {0}```"
+  },
+  "_": {
+    "pinned": "Pinned Message.",
+    "unpinned": "Unpinned Message.",
+    "notPinned": "Messages are not pinned.",
+    "alreadyPinned": "Messages are already pinned.",
+    "fuckYourSelf": "The bot does not have permissions to manage messages."
+  }
+}
